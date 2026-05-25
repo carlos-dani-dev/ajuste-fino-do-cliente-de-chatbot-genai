@@ -73,7 +73,7 @@ OLLAMA_TEMPERATURE=0.7
 OLLAMA_NUM_PREDICT=2048
 ```
 
-## Instalação
+### Instalação
 
 No diretório raiz do projeto:
 
