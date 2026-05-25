@@ -1,9 +1,11 @@
-# Chatbot Gemini CLI, Web e API
+# Ajuste fino de chatbot que utiliza o framework de IA generativa do Google
 
 <p>
-  Aplicação de chatbot com backend em FastAPI, persistência em SQLite e clientes para terminal e web.<br>
+  Aplicação de chatbot possui backend em FastAPI, persistência em SQLite e clientes para terminal e web.<br>
   O projeto aceita Gemini ou Ollama como provedor de LLM, com histórico de conversa, contagem simplificada de tokens e endpoints de consulta para depuração.
 </p>
+
+<p>Minha contribuições para este projeto foi a refatoração do código então desatualizado. Segue abaixo a descrição das alterações efetuadas.</p>
 
 ### A atualização mais recente
 
